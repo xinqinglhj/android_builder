@@ -1,4 +1,4 @@
 {
 "storeHouse": [
-{"sourceName":"ck1","sourceUrl":"https://raw.githubusercontent.com/iodata999/android_builder/main/xr1"}
+{"sourceName":"ck1","sourceUrl":"https://raw.iqiq.io/iodata999/android_builder/main/xr1"}
 ]}
