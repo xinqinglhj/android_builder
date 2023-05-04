@@ -1,10 +1,10 @@
 {
 "urls": [
 {"url": "https://raw.iqiq.io/iodata999/gao/master/0820.json","name": "0820FTYQ"},
-{"url": "https://raw.iqiq.io/iodata999/gao/master/0820.txt","name": "0820TSQ"},
-{"url": "https://raw.iqiq.io/iodata999/gao/master/0826.json","name": "0826FTY"},
+{"url": "https://raw.iqiq.io/iodata999/gao/master/js.json","name": "JS"},
+{"url": "https://raw.iqiq.io/iodata999/gao/master/js1.json","name": "JS1"},
 {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/iodata999/gao/master/0820.json","name": "0820FTYQ2"},
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/iodata999/gao/master/0820.txt","name": "0820TSQ2"},
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/iodata999/gao/master/0826.json","name": "0826FTY2"}
+{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/iodata999/gao/master/js.json","name": "JS"},
+{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/iodata999/gao/master/js1.json","name": "JS1"}
 ]
 }
